@@ -1,4 +1,8 @@
 Application: Cloud Demo
+<<<<<<< HEAD
 Environment: Production
+=======
+Environment: Staging
+>>>>>>> main
 Version: 1.0
 Status: Stable
