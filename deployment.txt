@@ -1,4 +1,4 @@
 Application: Cloud Demo
-Environment: Development
+Environment: Staging
 Version: 1.0
 Status: Stable
